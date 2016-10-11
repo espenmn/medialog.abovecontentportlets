@@ -1,0 +1,6 @@
+
+*.pyc
+
+src/medialog.abovecontentportlets.egg-info/PKG-INFO
+src/medialog.abovecontentportlets.egg-info
+src/medialog.abovecontentportlets.egg-info/*
