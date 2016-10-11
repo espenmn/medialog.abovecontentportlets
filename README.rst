@@ -1,6 +1,6 @@
 s==============================================================================
-medialog.abovecontentportletsTrue
-==============================================================================
+medialog.abovecontentportlets
+==========================================
 
 
 
@@ -8,6 +8,7 @@ Features
 --------
 
 adds portlets above content
+adds portlets below content
 
 
 Installation
