@@ -24,10 +24,20 @@
       post_handler=".setuphandlers.post_install"
       />
 
+      <genericsetup:registerProfile
+          name="uninstall"
+          title="Uninstall: medialog.abovecontentportlets"
+          directory="profiles/uninstall"
+          description="Uninstalls the medialog.abovecontentportlets add-on"
+          provides="Products.GenericSetup.interfaces.EXTENSION"
+          post_handler=".setuphandlers.uninstall"
+        />
+
+
   <utility
       factory=".setuphandlers.HiddenProfiles"
       name="medialog.abovecontentportlets-hiddenprofiles" />
-      
+
   <!-- Portlets Below Content -->
   <browser:viewlet
         name="medialog.belowportlets"
@@ -46,6 +56,6 @@
         permission="zope.Public"
     />
 
-  
-                  
+
+
 </configure>
