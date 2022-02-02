@@ -1,4 +1,3 @@
-==============================================================================
 medialog.abovecontentportlets
 ==========================================
 
@@ -7,8 +6,8 @@ medialog.abovecontentportlets
 Features
 --------
 
-adds portlets above content
-adds portlets below content
+- adds portlets above content
+- adds portlets below content
 
 
 Installation
@@ -32,7 +31,7 @@ Contribute
 
 - Issue Tracker: https://github.com/espenmn/medialog.abovecontentportlets/issues
 - Source Code: https://github.com/espenmn/medialog.abovecontentportlets
- 
+
 
 Support
 -------

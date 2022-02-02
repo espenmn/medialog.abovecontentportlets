@@ -6,3 +6,4 @@ src/medialog.abovecontentportlets.egg-info
 src/medialog.abovecontentportlets.egg-info/*
 
 *.gz
+get-pip.py
